@@ -1,5 +1,4 @@
-# A combination of autoregressors and autoencoders using
-# XLNet for sentiment analysis
+# A combination of autoregressors and autoencoders using XLNet for sentiment analysis
 
 ## <p align="center"> Abstract <br/> </p>
 In this paper sentiment analysis has been performed in order to evaluate the performance
