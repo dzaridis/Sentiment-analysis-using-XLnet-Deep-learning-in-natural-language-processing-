@@ -9,3 +9,11 @@ such as sentiment analysis, question answering, reading comprehension, natural l
 understanding etc. In this work we evaluate the XLNet model in several sentiment classification tasks in terms of accuracy and efficiency. The XLNet reaches state of the art results
 and outperforms BERT which is the previous state of the art model on natural language
 processing.
+
+### This was an assignment for the course of Deep learning in PhD program of National Technical Unicersity of Athens ###
+- Team composed of 3 persons
+- Runs has been made on HPC-ARIS through batch scripts
+- Course grade 10/10 (* excellent *)
+- Full report formatted as a paper in [here](https://github.com/dzaridis/Sentiment-analysis-using-XLnet/blob/main/XL_NET__a_generalized_Autoregressive_network_for_sentiment_analysis.pdf)
+- Code for 2 sentiment analysis tasks out of 3 (implemented by the author of this repo) in [here] (https://github.com/dzaridis/Sentiment-analysis-using-XLnet/tree/main/CODE)
+- Data available [here](https://github.com/dzaridis/Sentiment-analysis-using-XLnet/tree/main/DATA)
