@@ -15,5 +15,5 @@ processing.
 - Runs has been made on HPC-ARIS through batch scripts
 - Course grade 10/10 ***(excellent)***
 - Full report formatted as a paper in [here](https://github.com/dzaridis/Sentiment-analysis-using-XLnet/blob/main/XL_NET__a_generalized_Autoregressive_network_for_sentiment_analysis.pdf)
-- Code for 2 sentiment analysis tasks out of 3 (implemented by the author of this repo) in [here] (https://github.com/dzaridis/Sentiment-analysis-using-XLnet/tree/main/CODE)
+- Code for 2 sentiment analysis tasks out of 3 (implemented by the author of this repo) in [here](https://github.com/dzaridis/Sentiment-analysis-using-XLnet/tree/main/CODE)
 - Data available [here](https://github.com/dzaridis/Sentiment-analysis-using-XLnet/tree/main/DATA)
