@@ -1,4 +1,6 @@
-# Sentiment-analysis-using-XLnet
+# A combination of autoregressors and autoencoders using
+# XLNet for sentiment analysis
+
 ## <p align="center"> Abstract <br/> </p>
 In this paper sentiment analysis has been performed in order to evaluate the performance
 of XLNet on this particular task. XLNet is rather a ground-breaking network on language
